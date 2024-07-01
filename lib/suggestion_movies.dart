@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:netflixui/tabbar.dart';
 
+// ignore: must_be_immutable
 class MovieSuggestion extends StatelessWidget {
   String image;
    MovieSuggestion({super.key , required this.image});

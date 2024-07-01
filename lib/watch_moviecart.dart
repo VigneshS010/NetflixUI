@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+// ignore: must_be_immutable
 class WatchMovieCart extends StatelessWidget {
   String image;
   WatchMovieCart({super.key, required this.image});
